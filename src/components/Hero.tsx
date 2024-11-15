@@ -1,6 +1,6 @@
 import React from "react";
 import {Code, User, Briefcase} from "lucide-react";
-import img from "../assets/IMG_5881 (2).jpg";
+import img from "../assets/Screenshot from 2024-11-15 08-15-12.png";
 export const Hero: React.FC = () => {
     const scrollToContact = () => {
         document.getElementById("contact")?.scrollIntoView({behavior: "smooth"});
